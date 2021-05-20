@@ -1,0 +1,51 @@
+body{
+  margin: 0px;
+  
+}
+.minHeight{
+  
+  min-height: 85vh ;
+  
+}
+.content{
+  
+  text-align: justify;
+  font-size: 20px;
+  padding: 20px 4vw;
+  color: #444444;
+  background: #bbbbbb;
+  transition: all 0.2s ease-in-out;
+  
+}
+.content.dark{
+
+  color: #bbbbbb;
+  background: #444444;
+  
+}
+.content.light {
+  color: #444444;
+  background: #bbbbbb;
+}
+h1{
+  text-align: center;
+  font-size: 35px;
+}
+button{
+  background: rgb(224, 224, 224);
+  
+}
+img{
+  
+  padding-bottom: 20px;
+  width: 80%;
+  
+}
+li{
+  padding-bottom: 80px;
+  list-style-type: none; 
+  
+}
+.image{
+  text-align: center;
+}
