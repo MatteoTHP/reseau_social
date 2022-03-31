@@ -3,4 +3,4 @@ export const newUserSucces = (checked, data = []) => ({
   checked,
   data,
 })
-// un fucking bateau
+// un bateau
